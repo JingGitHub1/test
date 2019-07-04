@@ -88,7 +88,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'Welcome to Your Vue.js App'
+      msg: 'hahahahahahahahahahahahahahaha'
     }
   }
 }
@@ -98,6 +98,8 @@ export default {
 <style scoped>
 h1, h2 {
   font-weight: normal;
+  color:pink;
+  font-size:24px;
 }
 ul {
   list-style-type: none;
